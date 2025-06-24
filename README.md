@@ -21,6 +21,4 @@ Several scripts in this repository support CUDA-based acceleration using MATLABâ
 | `tracktail2p.m`                 | Aligns extracted tail motion data with 2-photon imaging frames for head-restrained larval zebrafish.                              |
 | `suite2pRefineReg.m`           | Refines Suite2p or CaImAn-extracted neuron data, performs anatomical registration via ANTsPy, and maps neural clusters to ~2158 brain regions for quantifying Î”F/F, firing rates, and cell counts. |
 | `tailNeuron2x.m`               | Integrates neural activity with tail motion data to assess neuron-behavior coupling.                                               |
-| `double_hyperactivity_neurons3D.m` | Identifies hyperactive neurons across 3D space using calcium traces and spatial ROI mapping.                                          |
-| `hierarchicalKB.m`             | Applies hierarchical clustering to classify neurons based on extracted activity metrics.                                          |
 
